@@ -26,7 +26,7 @@ Then, run `make` in each of them.
 
 Using default docker configuration, you'll have access to each of them urls:
 
-A                                  | url
+What                               | url
 ---------------------------------- | -----------------------------
 Eole front application             | http://0.0.0.0:8580
 Eole Api                           | http://0.0.0.0:8480/api-docker.php/api/games
