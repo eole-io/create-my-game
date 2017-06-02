@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Create my Eole game
+description: >
+    Documentation to integrate a game using eole-api and eole-angular.
