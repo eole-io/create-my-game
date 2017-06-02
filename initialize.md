@@ -10,7 +10,9 @@ Game can be developped in:
 - **Backend**: `eole-api/src/Eole/Games/MyGame/`
 - **Frontend**: `eole-angular/eole/games/my-game/`
 
-Note that there is already a folder "my game" in both backend and frontend. You can start from them or create a new ones.
+Note that there is already a folder "my game" in both backend and frontend.
+
+You can start from them to avoid to initialize the structure, or create a new folder.
 
 If you create a new one, see below.
 
@@ -31,6 +33,8 @@ Your game backend will provide:
 Each game extends the Silex stack by providing a GameProvider class, which extends [Eole\Silex\GameProvider](https://github.com/eole-io/eole-api/blob/dev/src/Eole/Silex/GameProvider.php):
 
 ``` php
+<?php
+
 namespace Eole\Games\MyGame;
 
 use Eole\Core\Model\Game;
