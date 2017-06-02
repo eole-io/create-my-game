@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Install Eole locally
 ---
 
