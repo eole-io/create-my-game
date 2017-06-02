@@ -1,3 +1,8 @@
+---
+layout: post
+title: Install Eole locally
+---
+
 ## Install Eole locally
 
 
