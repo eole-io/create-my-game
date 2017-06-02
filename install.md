@@ -28,8 +28,8 @@ Using default docker configuration, you'll have access to each of them urls:
 
 What                               | url
 ---------------------------------- | -----------------------------
-Eole front application             | http://0.0.0.0:8580
-Eole Api                           | http://0.0.0.0:8480/api-docker.php/api/games
-Api Symfony profiler               | http://0.0.0.0:8480/api-docker.php/_profiler/
-PHPMyAdmin (`root` / `root`)       | http://0.0.0.0:8481
-Websocket server                   | ws://0.0.0.0:8482
+Eole front application             | [http://0.0.0.0:8580](http://0.0.0.0:8580)
+Eole Api                           | [http://0.0.0.0:8480/api-docker.php/api/games](http://0.0.0.0:8480/api-docker.php/api/games)
+Api Symfony profiler               | [http://0.0.0.0:8480/api-docker.php/_profiler/](http://0.0.0.0:8480/api-docker.php/_profiler/)
+PHPMyAdmin (`root` / `root`)       | [http://0.0.0.0:8481](http://0.0.0.0:8481)
+Websocket server                   | [ws://0.0.0.0:8482](ws://0.0.0.0:8482)
