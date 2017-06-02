@@ -1,6 +1,6 @@
 ## Initialize my game
 
-Once you [installed Eole environment](install), you'll have to develop a backend and a frontend.
+Once you [installed Eole environment](./install), you'll have to develop a backend and a frontend.
 
 
 ### Game folders
