@@ -1,7 +1,3 @@
----
-title: Install Eole locally
----
-
 ## Install Eole locally
 
 

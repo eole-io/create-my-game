@@ -1,7 +1,3 @@
----
-title: Initialize my game
----
-
 ## Initialize my game
 
 Once you [installed Eole environment](./install), you'll have to develop a backend and a frontend.
