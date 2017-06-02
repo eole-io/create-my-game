@@ -11,3 +11,4 @@ Game can be developped in:
 - **Frontend**: `eole-angular/eole/games/my-game/`
 
 Note that there is already a folder "my game" in both backend and frontend. You can start from them or create a new ones.
+
