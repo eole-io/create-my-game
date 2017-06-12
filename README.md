@@ -11,6 +11,7 @@ Documentation to integrate a game using eole-api and eole-angular.
 #### Back
 
 - [Create a RestApi endpoint](create-rest-api-endpoint)
+- [Allow more players to join](allow-more-players-to-join)
 
 #### Front
 
