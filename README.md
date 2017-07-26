@@ -53,13 +53,13 @@ Websocket server                   | ws://0.0.0.0:8482
 
 ## Cookbook
 
-- [Initialize my game](initialize)
+1. [Initialize my game](initialize)
 
 ### Back
 
-- [Create a RestApi endpoint](create-rest-api-endpoint)
-- [Allow more players to join](allow-more-players-to-join)
+1. [Create a RestApi endpoint](create-rest-api-endpoint)
+1. [Allow more players to join](allow-more-players-to-join)
 
 ### Front
 
-- [Calling Eole Api](calling-eole-api)
+1. [Calling Eole Api](calling-eole-api)
