@@ -1,6 +1,6 @@
 ## Initialize my game
 
-Once you [installed Eole environment](../), you'll have to develop a backend and a frontend.
+Once you [installed Eole environment](./), you'll have to develop a backend and a frontend.
 
 
 ### Game folders
@@ -213,4 +213,4 @@ angular.module('eole.games', [
 
 #### Test your game
 
-You should now see your game in http://0.0.0.0:8580/#!/games and be able to create a party of your game, and let people join your party.
+You should now see your game in [http://0.0.0.0:8580/#!/games](http://0.0.0.0:8580/#!/games) and be able to create a party of your game, and let people join your party.
