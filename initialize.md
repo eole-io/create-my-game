@@ -190,6 +190,26 @@ And the view `views/index.html`:
 </div>
 ```
 
+#### Register game in config
+
+In `eole-angular/config/plugins.js` as node module:
+
+``` js
+module.exports = {
+    // ...
+    my_game: 'eole/games/my-game'
+};
+```
+
+In `eole-angular/config/environment.js` as angular module:
+
+``` js
+angular.module('eole.games', [
+    // ...
+    'eole.games.my-game'
+]);
+```
+
 
 #### Test your game
 
