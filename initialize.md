@@ -197,9 +197,11 @@ In `eole-angular/config/plugins.js` as node module:
 ``` js
 module.exports = {
     // ...
-    my_game: 'eole/games/my-game'
+    'my-game': 'eole/games/my-game'
 };
 ```
+
+> **Note**: The `my-game` name must be the same as the module name `eole.games.my-game`.
 
 In `eole-angular/config/environment.js` as angular module:
 
@@ -209,6 +211,8 @@ angular.module('eole.games', [
     'eole.games.my-game'
 ]);
 ```
+
+Run the `make` command in `eole-angular/` when you edit `config/plugins.js`.
 
 
 #### Test your game
